@@ -1,0 +1,26 @@
+2020-12-01 22:38:29.4586 Info Message Template Auto Format enabled
+2020-12-01 22:38:29.5296 Info Loading assembly: NLog.Web.AspNetCore
+2020-12-01 22:38:29.7758 Info Adding target FileTarget(Name=allfile)
+2020-12-01 22:38:29.7947 Info Adding target FileTarget(Name=ownFile-web)
+2020-12-01 22:38:29.9136 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Morpeh-PC\source\repos\ASPNetCoreMentoringEpam\ASPNetCoreMentoringEpam\nlog.config
+2020-12-01 22:55:25.6153 Info Message Template Auto Format enabled
+2020-12-01 22:55:25.6868 Info Loading assembly: NLog.Web.AspNetCore
+2020-12-01 22:55:25.9961 Info Adding target FileTarget(Name=allfile)
+2020-12-01 22:55:26.0449 Info Adding target FileTarget(Name=ownFile-web)
+2020-12-01 22:55:26.2657 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Morpeh-PC\source\repos\ASPNetCoreMentoringEpam\ASPNetCoreMentoringEpam\nlog.config
+2020-12-01 23:07:17.1944 Info Message Template Auto Format enabled
+2020-12-01 23:07:17.2116 Info Loading assembly: NLog.Web.AspNetCore
+2020-12-01 23:07:17.2116 Info Adding target FileTarget(Name=allfile)
+2020-12-01 23:07:17.2422 Info Adding target FileTarget(Name=ownFile-web)
+2020-12-01 23:07:17.2611 Info Closing old configuration.
+2020-12-01 23:07:17.3336 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Morpeh-PC\source\repos\ASPNetCoreMentoringEpam\ASPNetCoreMentoringEpam\nlog.config
+2020-12-01 23:15:29.3781 Info Message Template Auto Format enabled
+2020-12-01 23:15:29.4621 Info Loading assembly: NLog.Web.AspNetCore
+2020-12-01 23:15:29.8033 Info Adding target FileTarget(Name=allfile)
+2020-12-01 23:15:29.8323 Info Adding target FileTarget(Name=ownFile-web)
+2020-12-01 23:15:30.0370 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Morpeh-PC\source\repos\ASPNetCoreMentoringEpam\ASPNetCoreMentoringEpam\nlog.config
+2020-12-01 23:26:10.9081 Info Message Template Auto Format enabled
+2020-12-01 23:26:10.9625 Info Loading assembly: NLog.Web.AspNetCore
+2020-12-01 23:26:11.3895 Info Adding target FileTarget(Name=allfile)
+2020-12-01 23:26:11.4471 Info Adding target FileTarget(Name=ownFile-web)
+2020-12-01 23:26:11.6055 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Morpeh-PC\source\repos\ASPNetCoreMentoringEpam\ASPNetCoreMentoringEpam\nlog.config
